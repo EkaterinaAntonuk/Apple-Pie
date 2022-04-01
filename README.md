@@ -2,6 +2,8 @@
 Apple pie for MDA
 ## Screenshots
 
-https://github.com/EkaterinaAntonuk/Apple-Pie/blob/main/Screenshots/Screenshot%2001.png?raw=true![image]
 
-https://github.com/EkaterinaAntonuk/Apple-Pie/blob/main/Screenshots/Screenshot%2002.png?raw=true![image]
+
+
+<img width="301" alt="Screenshot 01" src="https://user-images.githubusercontent.com/97504554/161254027-35084601-e894-4e71-acef-83fbe17c0be2.png">
+<img width="301" alt="Screenshot 02" src="https://user-images.githubusercontent.com/97504554/161254092-2e372e2d-097f-4f84-b313-c8cf955b3ff2.png">
