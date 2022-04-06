@@ -26,13 +26,13 @@
                                         <rect key="frame" x="0.0" y="409" width="414" height="409"/>
                                         <subviews>
                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="Z07-Ts-8S1">
-                                                <rect key="frame" x="0.0" y="0.0" width="414" height="277"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="414" height="237.5"/>
                                                 <subviews>
                                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="S7m-i7-a8x">
-                                                        <rect key="frame" x="0.0" y="0.0" width="414" height="92.5"/>
+                                                        <rect key="frame" x="0.0" y="0.0" width="414" height="79"/>
                                                         <subviews>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kw8-2e-9eM">
-                                                                <rect key="frame" x="0.0" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Й"/>
@@ -41,7 +41,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DQU-bk-dKl">
-                                                                <rect key="frame" x="32" y="0.0" width="31.5" height="92.5"/>
+                                                                <rect key="frame" x="32" y="0.0" width="31.5" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Ц"/>
@@ -50,7 +50,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bSD-Mb-xuQ">
-                                                                <rect key="frame" x="63.5" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="63.5" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="У"/>
@@ -59,7 +59,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BPC-IN-dQc">
-                                                                <rect key="frame" x="95.5" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="95.5" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="К"/>
@@ -68,7 +68,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DWu-ys-ulH">
-                                                                <rect key="frame" x="127.5" y="0.0" width="31.5" height="92.5"/>
+                                                                <rect key="frame" x="127.5" y="0.0" width="31.5" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Е"/>
@@ -77,7 +77,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tA8-bf-yi3">
-                                                                <rect key="frame" x="159" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="159" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Н"/>
@@ -86,7 +86,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FXt-QD-fow">
-                                                                <rect key="frame" x="191" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="191" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Г"/>
@@ -95,7 +95,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CnJ-vY-8S7">
-                                                                <rect key="frame" x="223" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="223" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Ш"/>
@@ -104,7 +104,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ojz-me-6Zt">
-                                                                <rect key="frame" x="255" y="0.0" width="31.5" height="92.5"/>
+                                                                <rect key="frame" x="255" y="0.0" width="31.5" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Щ"/>
@@ -113,7 +113,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DyI-eM-h8k">
-                                                                <rect key="frame" x="286.5" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="286.5" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="З"/>
@@ -122,7 +122,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eDT-SU-5gQ">
-                                                                <rect key="frame" x="318.5" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="318.5" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Х"/>
@@ -131,7 +131,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="q02-tb-Hwl">
-                                                                <rect key="frame" x="350.5" y="0.0" width="31.5" height="92.5"/>
+                                                                <rect key="frame" x="350.5" y="0.0" width="31.5" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Ъ"/>
@@ -140,7 +140,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Eie-6x-bhk">
-                                                                <rect key="frame" x="382" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="382" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Ё"/>
@@ -151,15 +151,15 @@
                                                         </subviews>
                                                     </stackView>
                                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="0qX-IG-NbX">
-                                                        <rect key="frame" x="0.0" y="92.5" width="414" height="92"/>
+                                                        <rect key="frame" x="0.0" y="79" width="414" height="79.5"/>
                                                         <subviews>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6Gz-kb-Q1Z">
-                                                                <rect key="frame" x="0.0" y="0.0" width="32" height="92"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="32" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f8a-OM-SCb">
-                                                                <rect key="frame" x="32" y="0.0" width="31.5" height="92"/>
+                                                                <rect key="frame" x="32" y="0.0" width="31.5" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Ф"/>
@@ -168,7 +168,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3rp-9z-nPx">
-                                                                <rect key="frame" x="63.5" y="0.0" width="32" height="92"/>
+                                                                <rect key="frame" x="63.5" y="0.0" width="32" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Ы"/>
@@ -177,7 +177,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ce4-QZ-Y2X">
-                                                                <rect key="frame" x="95.5" y="0.0" width="32" height="92"/>
+                                                                <rect key="frame" x="95.5" y="0.0" width="32" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="В"/>
@@ -186,7 +186,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7nX-Wz-GSF">
-                                                                <rect key="frame" x="127.5" y="0.0" width="31.5" height="92"/>
+                                                                <rect key="frame" x="127.5" y="0.0" width="31.5" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="А"/>
@@ -195,7 +195,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="L6F-Qh-KA5">
-                                                                <rect key="frame" x="159" y="0.0" width="32" height="92"/>
+                                                                <rect key="frame" x="159" y="0.0" width="32" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="П"/>
@@ -204,7 +204,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nqK-Vj-rVI">
-                                                                <rect key="frame" x="191" y="0.0" width="32" height="92"/>
+                                                                <rect key="frame" x="191" y="0.0" width="32" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Р"/>
@@ -213,7 +213,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="c9F-mU-eVj">
-                                                                <rect key="frame" x="223" y="0.0" width="32" height="92"/>
+                                                                <rect key="frame" x="223" y="0.0" width="32" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="О"/>
@@ -222,7 +222,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kMJ-WI-fhn">
-                                                                <rect key="frame" x="255" y="0.0" width="31.5" height="92"/>
+                                                                <rect key="frame" x="255" y="0.0" width="31.5" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Л"/>
@@ -231,7 +231,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="urW-r7-8cm">
-                                                                <rect key="frame" x="286.5" y="0.0" width="32" height="92"/>
+                                                                <rect key="frame" x="286.5" y="0.0" width="32" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Д"/>
@@ -240,7 +240,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ihb-HN-f4S">
-                                                                <rect key="frame" x="318.5" y="0.0" width="32" height="92"/>
+                                                                <rect key="frame" x="318.5" y="0.0" width="32" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Ж"/>
@@ -249,7 +249,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6hF-XJ-IL5">
-                                                                <rect key="frame" x="350.5" y="0.0" width="31.5" height="92"/>
+                                                                <rect key="frame" x="350.5" y="0.0" width="31.5" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Э"/>
@@ -258,27 +258,27 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N3Q-zD-xqi">
-                                                                <rect key="frame" x="382" y="0.0" width="32" height="92"/>
+                                                                <rect key="frame" x="382" y="0.0" width="32" height="79.5"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
                                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="Iba-PJ-Idt">
-                                                        <rect key="frame" x="0.0" y="184.5" width="414" height="92.5"/>
+                                                        <rect key="frame" x="0.0" y="158.5" width="414" height="79"/>
                                                         <subviews>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WO1-EU-8gy">
-                                                                <rect key="frame" x="0.0" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Mrz-hh-Muu">
-                                                                <rect key="frame" x="32" y="0.0" width="31.5" height="92.5"/>
+                                                                <rect key="frame" x="32" y="0.0" width="31.5" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gg9-tH-kHM">
-                                                                <rect key="frame" x="63.5" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="63.5" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Я"/>
@@ -287,7 +287,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="X96-Rn-Vjt">
-                                                                <rect key="frame" x="95.5" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="95.5" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Ч"/>
@@ -296,7 +296,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ahd-KI-vLp">
-                                                                <rect key="frame" x="127.5" y="0.0" width="31.5" height="92.5"/>
+                                                                <rect key="frame" x="127.5" y="0.0" width="31.5" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="С"/>
@@ -305,7 +305,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="X7s-qC-yZI">
-                                                                <rect key="frame" x="159" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="159" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="М"/>
@@ -314,7 +314,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Cv-2Q-Xkk">
-                                                                <rect key="frame" x="191" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="191" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="И"/>
@@ -323,7 +323,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="e4d-iJ-77e">
-                                                                <rect key="frame" x="223" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="223" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Т"/>
@@ -332,7 +332,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xHT-GY-tgT">
-                                                                <rect key="frame" x="255" y="0.0" width="31.5" height="92.5"/>
+                                                                <rect key="frame" x="255" y="0.0" width="31.5" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Ь"/>
@@ -341,7 +341,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aeL-Lo-j7l">
-                                                                <rect key="frame" x="286.5" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="286.5" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Б"/>
@@ -350,7 +350,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gjK-2O-HRS">
-                                                                <rect key="frame" x="318.5" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="318.5" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                                 <state key="normal" title="Ю"/>
@@ -359,12 +359,12 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HRc-ED-IAv">
-                                                                <rect key="frame" x="350.5" y="0.0" width="31.5" height="92.5"/>
+                                                                <rect key="frame" x="350.5" y="0.0" width="31.5" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WZn-t1-szQ">
-                                                                <rect key="frame" x="382" y="0.0" width="32" height="92.5"/>
+                                                                <rect key="frame" x="382" y="0.0" width="32" height="79"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                             </button>
@@ -373,17 +373,25 @@
                                                 </subviews>
                                             </stackView>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jWW-DQ-B8p">
-                                                <rect key="frame" x="0.0" y="277" width="414" height="79"/>
+                                                <rect key="frame" x="0.0" y="237.5" width="414" height="68"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BJS-JQ-Eoi">
-                                                <rect key="frame" x="0.0" y="356" width="414" height="53"/>
+                                                <rect key="frame" x="0.0" y="305.5" width="414" height="45"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LM1-iq-x5n">
+                                                <rect key="frame" x="0.0" y="350.5" width="414" height="58.5"/>
+                                                <state key="normal" title="Button"/>
+                                                <buttonConfiguration key="configuration" style="tinted" title="НОВАЯ ИГРА"/>
+                                                <connections>
+                                                    <action selector="newGamePressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="boj-fT-6lv"/>
+                                                </connections>
+                                            </button>
                                         </subviews>
                                     </stackView>
                                 </subviews>
@@ -400,6 +408,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="NewGame" destination="LM1-iq-x5n" id="QWG-K3-UvC"/>
                         <outlet property="correctWordLabel" destination="jWW-DQ-B8p" id="a3e-Wx-1fs"/>
                         <outlet property="scoreLabel" destination="BJS-JQ-Eoi" id="6eX-y4-rsZ"/>
                         <outlet property="treeImageView" destination="k1f-8W-hfn" id="eeK-lN-EHu"/>
@@ -440,13 +449,17 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="20" y="84"/>
+            <point key="canvasLocation" x="18.840579710144929" y="83.705357142857139"/>
         </scene>
     </scenes>
+    <color key="tintColor" systemColor="systemTealColor"/>
     <resources>
         <image name="Tree3" width="645" height="645"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemTealColor">
+            <color red="0.18823529411764706" green="0.69019607843137254" blue="0.7803921568627451" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
