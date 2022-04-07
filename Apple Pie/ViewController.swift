@@ -173,7 +173,7 @@ class ViewController: UIViewController {
         updateCorrectWordLabel()
         scoreLabel.text = "Выйгрыши: \(totalWins), Проигрыши: \(totalLosses)"
         scoreLabel.textColor = .red
-        if totalWins == 30 {
+        if totalWins == 10 {
             NewGame.isHidden = false
             messageLabel.text = "Поздравляем! Вы выйграли!"
             messageLabel.textColor = .systemTeal
